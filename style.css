@@ -1,0 +1,12 @@
+.butonlar{
+    display: flex;
+    justify-content: center;
+}
+
+#photos {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
